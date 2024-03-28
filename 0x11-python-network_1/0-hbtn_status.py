@@ -9,7 +9,7 @@ def main():
 
     """
     Funtion to print a response of a specific url
-    
+
     """
 
     url = 'https://alx-intranet.hbtn.io/status'

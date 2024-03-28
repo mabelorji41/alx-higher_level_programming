@@ -11,7 +11,7 @@ def main(argv):
     """
     Method that manage urllib.error.HTTPError exceptions and
     print: Error code: followed by the HTTP status code
-    
+
     """
     url = argv[1]
     req = urllib.request.Request(url)
