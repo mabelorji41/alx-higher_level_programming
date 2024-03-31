@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""
+Module to access to the GitHub API and uses the information
+"""
 import requests
 from requests.auth import HTTPBasicAuth
 from sys import argv
