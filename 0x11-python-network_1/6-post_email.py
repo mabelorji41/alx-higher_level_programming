@@ -17,5 +17,5 @@ def main(argv):
     print(r.text)
 
 
-    if __name__ == "__main__":
+if __name__ == "__main__":
     main(argv)
